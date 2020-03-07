@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /cv.md
+permalink: /cv/
 ---
 # Ali AYDIN
 
