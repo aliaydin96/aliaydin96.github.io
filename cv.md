@@ -2,7 +2,6 @@
 layout: page
 permalink: /cv/
 ---
-# Ali AYDIN
 
 Email: [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
 
