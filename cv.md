@@ -17,7 +17,7 @@ Email: [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
 
 English
 
-## Exprience 
+## Experience 
 
 | 2019 - 2020 | Analog Design Engineer | Aselsan |
 | :-------: | :-------: | :------: |
