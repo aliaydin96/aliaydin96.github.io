@@ -23,7 +23,7 @@ English
 # Exprience 
 
 | Time | Position | Place |
-| :-----: | :-----: | :----: |
+| :-------: | :-------: | :------: |
 | 2019 - 2020 | Analog Design Engineer | Aselsan |
 | June 2019 | Intern | Aselsan | 
 |Oct. 2018 - June 2019|Student Assistant |  METU, Electrical - Electronics Engineering|
