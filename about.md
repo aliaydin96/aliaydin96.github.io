@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Ali AYDIN. Currently, I am working at Aselsan as analog design engineer. Also, I am interested in software things which are web development, android application and machine learning. I open this web page in order to create my own website and also to share my works.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I graduate from Middle East Technical University at Agust 2019. I have studied at Electrical and Electronics Engineering.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
