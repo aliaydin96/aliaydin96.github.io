@@ -6,7 +6,7 @@ permalink: /cv/
 
 Email: [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
 
-# Education
+## Education
 
 2014 - 2019 [Middle East Technical Universtiy](https://eee.metu.edu.tr/)
 
@@ -16,18 +16,21 @@ Email: [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
 
 2002 - 2010 [ERE Dagpazari Primary School](http://eredagpazariilkokulu-ortaokulu.meb.k12.tr/)
 
-# Language
+## Language
 
 English
 
-# Exprience 
+## Exprience 
 
 | 2019 - 2020 | Analog Design Engineer | Aselsan |
 | :-------: | :-------: | :------: |
 | June 2019 | Intern | Aselsan | 
 |Oct. 2018 - June 2019|Student Assistant |  METU, Electrical - Electronics Engineering|
+****
 |Dec. 2017 - June 2019 | Student Researcher| METU, Electrical - Electronics Engineering, Powerlab|
+****
 |July 2018| Intern | Meteksan Savunma|
+****
 
 
 
