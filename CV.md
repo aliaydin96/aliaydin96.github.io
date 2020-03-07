@@ -3,6 +3,9 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+# Ali AYDIN
+
+Email: [h.aliaydin2@gmail.com](mail:h.aliaydin2@gmail.com)
 
 # Education
 
