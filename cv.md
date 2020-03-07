@@ -29,6 +29,36 @@ English
 | :-------: | :-------: | :------: |
 |July 2018| Intern | Meteksan Savunma|
 
+## Talent
+
+### Software
+- Python
+- C
+- C#
+- MATLAB
+- Assembly
+
+### Hardware
+- Arduino
+- Raspberry Pi
+- TMS320F28335
+- TM4C123GXL
+
+### Program
+- LTSpice
+- Mentor Expedition
+- Proteus
+
+## Certification
+- [Python : Sıfırdan İleri Seviye Programlama](https://www.udemy.com/certificate/UC-OEFPU7XA/)
+- [Deep Learning ve Python: İleri Seviye Derin Öğrenme (5.2)](https://www.udemy.com/certificate/UC-JJDMX7S0/)
+- [Android Studio ile Uygulama Gelistirme Egitimi-1](https://www.udemy.com/certificate/UC-K2WTT338/)
+
+## Project
+
+
+
+
 
 
 
