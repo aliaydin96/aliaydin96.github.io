@@ -9,7 +9,7 @@ name: Ali Aydın
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/resim.jpg
+avatar: https://raw.githubusercontent.com/aliaydin96/aliaydin96.github.io/master/images/resim.jpg
 
 #
 # Flags below are optional
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/re
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: H.aliaydin
   flickr:
   github: aliaydin96
   instagram:
