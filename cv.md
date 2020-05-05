@@ -55,6 +55,7 @@ English
 - [Python : Sıfırdan İleri Seviye Programlama](https://www.udemy.com/certificate/UC-OEFPU7XA/)
 - [Deep Learning ve Python: İleri Seviye Derin Öğrenme (5.2)](https://www.udemy.com/certificate/UC-JJDMX7S0/)
 - [Android Studio ile Uygulama Gelistirme Egitimi-1](https://www.udemy.com/certificate/UC-K2WTT338/)
+- [Etik Hacker Olma Kursu](https://www.udemy.com/certificate/UC-e468e9cc-02f0-43d7-9cee-be3a4b375324/)
 
 ## Project
 
