@@ -7,10 +7,25 @@ Email: [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
 
 ## Education
 
-|2014 - 2019 |  | [Middle East Technical Universtiy](https://eee.metu.edu.tr/)|
-| | | Electrical and Electronics Engineering|           
-|2010 - 2014| | [Mut Anatolian High School](http://mutanadolu.meb.k12.tr/)|
-|2002 - 2010| |[ERE Dagpazari Primary School](http://eredagpazariilkokulu-ortaokulu.meb.k12.tr/)|
+<table style="width:100%">
+  <tr>
+    <th>2014 - 2019 </th>
+    <th><a href="https://eee.metu.edu.tr/">Middle East Technical Universtiy</a></th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>Electrical and Electronics Engineering</th>
+  </tr>
+  <tr>
+    <th>2010 - 2014</th>
+    <th><a href = "http://mutanadolu.meb.k12.tr/">Mut Anatolian High School</a></th>
+  </tr>
+  <tr>
+    <th>2002 - 2010</th>
+    <th><a href = "http://eredagpazariilkokulu-ortaokulu.meb.k12.tr/">ERE Dagpazari Primary School</a></th>
+  </tr>
+</table>
+
 
 ## Language
 
