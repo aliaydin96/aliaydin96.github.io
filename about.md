@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am Ali AYDIN. Currently, I am working at Aselsan as analog design engineer. Also, I am interested in software things which are web development, android application and machine learning. I open this web page in order to create my own website and also to share my works.
+I am Ali AYDIN. Currently, I am working at Aselsan as Analog Design Engineer. Also, I am interested in software things which are web development, android application and machine learning. I open this web page in order to create my own website and also to share my works.
 
 ### More Information
 
-I graduate from Middle East Technical University at Agust 2019. I have studied at Electrical and Electronics Engineering.
+I graduated from Middle East Technical University at Agust 2019. I have studied at Electrical and Electronics Engineering.
 
 ### Contact me
 
