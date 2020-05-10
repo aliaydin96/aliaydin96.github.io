@@ -77,9 +77,13 @@ English
 
 |EE314 Digital Electronics Laboratory| An digital osciloscope is made by using [verilog language](https://github.com/aliaydin96/proje).|
 | :------: | :-------: |
+|||
 |EE447 Introduction to Microprocessor |  [Battleship Game Console](https://github.com/aliaydin96/Battleship_Game_Console) is made by coding with assembly programming language. |
+|||
 |EE463 Static Power Conversion| A motor driver is made by using [Buck Converter topology](https://github.com/nailtosun/EE-463-Hardware-Project)|
+|||
 |EE464 Static Power Conversion|An AC-DC converter is made with [Flyback Topology](https://github.com/aliaydin96/EE464_Hardware_Project).|
+|||
 |EE493-EE494 Engineering Design|[An autonomous mapping robot](https://github.com/aliaydin96/EngineeringDesign) is made.|
 
 
