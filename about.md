@@ -14,6 +14,3 @@ I graduated from Middle East Technical University at Agust 2019. I have studied 
 
 [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
 
-
-
-https://github.com/aliaydin96/Battleship_Game_Console/blob/master/README.md
