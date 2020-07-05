@@ -73,6 +73,7 @@ English
 - [Etik Hacker Olma Kursu](https://www.udemy.com/certificate/UC-e468e9cc-02f0-43d7-9cee-be3a4b375324/)
 - [Bilgisayar Görüşü ile Yüz ve Nesne Tanıma R-CNN, SSD, GANs](https://www.udemy.com/certificate/UC-b27f9c9d-fbd7-46f1-a966-da9753b308da/)
 - [Machine Learning](https://www.coursera.org/account/accomplishments/records/63ZLTPMHRNPS)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/UMAUQGFY9Z4T)
 
 
 ## Project
