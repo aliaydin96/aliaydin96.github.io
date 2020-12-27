@@ -8,6 +8,14 @@ Email: [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
 ## Education
 
 <table style="width:100%">
+    <tr>
+    <th>2020 -  </th>
+    <th><a href="https://eee.metu.edu.tr/">Middle East Technical Universtiy</a></th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>Informatics Institute - Information Systems</th>
+  </tr>
   <tr>
     <th>2014 - 2019 </th>
     <th><a href="https://eee.metu.edu.tr/">Middle East Technical Universtiy</a></th>
@@ -33,7 +41,7 @@ English
 
 ## Experience 
 
-| 2019 - 2020 | Analog Design Engineer | Aselsan |
+| 2019 -  | Analog Design Engineer | Aselsan |
 | :------: | :-------: | :-------: |
 ||||
 | June 2019 | Intern | Aselsan | 
