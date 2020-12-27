@@ -10,19 +10,19 @@ Email: [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
 <table style="width:100%">
     <tr>
     <th>2020 -  </th>
-    <th><a href="https://eee.metu.edu.tr/">Middle East Technical Universtiy</a></th>
+    <th><a href="https://metu.edu.tr/">Middle East Technical Universtiy</a></th>
   </tr>
   <tr>
     <th></th>
-    <th>Informatics Institute - Information Systems</th>
+    <th><a href="http://ii.metu.edu.tr/">Informatics Institute - Information Systems</th>
   </tr>
   <tr>
     <th>2014 - 2019 </th>
-    <th><a href="https://eee.metu.edu.tr/">Middle East Technical Universtiy</a></th>
+    <th><a href="https://metu.edu.tr/">Middle East Technical Universtiy</a></th>
   </tr>
   <tr>
     <th></th>
-    <th>Electrical and Electronics Engineering</th>
+    <th><a href="https://eee.metu.edu.tr/">Electrical and Electronics Engineering</th>
   </tr>
   <tr>
     <th>2010 - 2014</th>
