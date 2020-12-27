@@ -71,8 +71,10 @@ English
 ### Program
 - LTSpice
 - Mentor Expedition
+- Mentor Pads
 - Proteus
 - Android Studio
+- Code Composer Studio
 
 ## Certification
 - [Python : Sıfırdan İleri Seviye Programlama](https://www.udemy.com/certificate/UC-OEFPU7XA/)
