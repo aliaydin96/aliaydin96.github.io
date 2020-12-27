@@ -14,7 +14,7 @@ Email: [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
   </tr>
   <tr>
     <th></th>
-    <th><a href="http://ii.metu.edu.tr/">Informatics Institute - Information Systems</th>
+    <th><a href="http://ii.metu.edu.tr/">Informatics Institute - Information Systems</a></th>
   </tr>
   <tr>
     <th>2014 - 2019 </th>
@@ -22,7 +22,7 @@ Email: [h.aliaydin2@gmail.com](mailto:h.aliaydin2@gmail.com)
   </tr>
   <tr>
     <th></th>
-    <th><a href="https://eee.metu.edu.tr/">Electrical and Electronics Engineering</th>
+    <th><a href="https://eee.metu.edu.tr/">Electrical and Electronics Engineering</a></th>
   </tr>
   <tr>
     <th>2010 - 2014</th>
